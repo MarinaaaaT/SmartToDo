@@ -231,7 +231,7 @@
                         <viewControllerLayoutGuide type="bottom" id="wAC-bT-12j"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="61f-l4-dXV">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="1000"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="What should I schedule for you?" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EHh-aK-Z99">
@@ -380,6 +380,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="1T6-sZ-dex"/>
+        <segue reference="8GO-fO-0iC"/>
     </inferredMetricsTieBreakers>
 </document>
